@@ -1,6 +1,6 @@
 👋 Hi, I’m @theoneandoney
 
-I mostly dable and hack in R, although I've been using AOC as an excuse to play with Julia
+I mostly dabble and hack in R, although I've been using AOC as an excuse to play with Julia
 
 I'll update this later, but in the meantime feel free to check out [my hacky website](https://www.oney.us/ "Oney")
 
